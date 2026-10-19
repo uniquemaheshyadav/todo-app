@@ -4,7 +4,7 @@
 
 Focus is a modern, minimal, production-quality personal task management web application built with React, Vite, and plain CSS.
 
-![Focus App](https://raw.githubusercontent.com/uniquemaheshyadav/todo-app/main/public/preview.png)
+
 
 ## ✨ Features
 
