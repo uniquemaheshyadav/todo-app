@@ -1,4 +1,4 @@
-# Focus — Personal Task Manager
+# Focus - Personal Task Manager
 
 > *A little progress every day.*
 
